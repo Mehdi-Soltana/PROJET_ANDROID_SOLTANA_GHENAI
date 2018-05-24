@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JOUEURS DU PSG</string>
+    <string name="button">AFFICHER TOUT LES JOUEURS DU PSG</string>
+    <string name="tv_autor">Par Mehdi et Younes</string>
+    <string name="tv_title">Bienvenue dans l\'application des joueurs du PSG</string>
+</resources>

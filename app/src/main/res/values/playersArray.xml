@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="playerArray">
+        <item>Hatem Ben Arfa</item>
+        <item>Kevin Trapp</item>
+        <item>Alphonse Aréola</item>
+        <item>Marquinhos</item>
+        <item>Thiago Silva</item>
+        <item>Presnel Kimpembe</item>
+        <item>Layvin Kurzawa</item>
+        <item>Thomas Meunier</item>
+        <item>Thiago Motta</item>
+        <item>Marco Verratti</item>
+        <item>Adrien Rabiot</item>
+        <item>Christopher Nkunku</item>
+        <item>Javier Pastore</item>
+        <item>Giovani Lo Celso</item>
+        <item>Ángel Di María</item>
+        <item>Edinson Cavani</item>
+        <item>Kylian Mbappé</item>
+        <item>Neymar</item>
+        <item>Yuri Berchiche</item>
+        <item>Dani Alves</item>
+        <item>Julian Draxler</item>
+        <item>Sébastien Cibois</item>
+        <item>Lassana Diarra</item>
+    </string-array>
+</resources>
