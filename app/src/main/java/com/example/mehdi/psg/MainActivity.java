@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         btn_show_all.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(getApplicationContext(), "Vous allez affiché tout les joueurs", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "Vous allez afficher tous les joueurs", Toast.LENGTH_LONG).show();
                 Intent i = new Intent(MainActivity.this, AllPlayerActivity.class);
                 startActivity(i);
             }
